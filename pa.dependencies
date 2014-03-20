@@ -1,12 +1,6 @@
 [
     {
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_packages_apps_CMFileManager",
-        "target_path":  "packages/apps/CMFileManager",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "cm",
         "repository":   "CyanogenMod/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
         "revision":     "cm-11.0"
