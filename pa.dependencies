@@ -68,7 +68,7 @@
     {
         "remote":       "github",
         "repository":   "RemixPA/android_device_lge_gee-common",
-        "target_path":  "device/lge/gee-common"
+        "target_path":  "device/lge/gee-common",
         "revision":     "kk4.4"
     },
     {
