@@ -73,9 +73,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "VanirAOSP/vendor_lge",
+        "repository":   "RemixPA/vendor_lge",
         "target_path":  "vendor/lge",
-        "revision":     "kk44"
+        "revision":     "kk4.4"
     },
     {
         "repository":   "android_kernel_lge_gee",
