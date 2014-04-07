@@ -78,7 +78,9 @@
         "revision":     "kk4.4"
     },
     {
-        "repository":   "android_kernel_lge_gee",
-        "target_path":  "kernel/lge/gee"
+        "remote":       "github",
+        "repository":   "xxxifan/android_kernel_lge_gee",
+        "target_path":  "kernel/lge/gee",
+        "revision":     "kitkat"
     }
 ]
